@@ -1,0 +1,17 @@
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln.cache
+bin/
+obj/
+.vscode/
+*.log
+app.publish/
+appsettings.Development.json
+appsettings.Local.json
+packages/
+.env	
+.idea/
+**/input.txt
